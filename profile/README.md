@@ -22,6 +22,8 @@ La tabla muestra el resultado de Solguard frente a cada laboratorio y versión.
 | DTL-v2 |          |       |           |           |          |      |         |            |            |         |
 | DTL-v3 |          |       |           |           |          |      |         |            |            |         |
 
+> Las versiones inferiores a: `v0.1.0` se consideran versiones experimentales.
+
 ### Criterios de Evaluación
 
 - **Detection:** vulnerabilidades detectadas frente al total sembrado.

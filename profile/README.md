@@ -11,6 +11,8 @@ No confirma vulnerabilidades por sí sola. Cada finding debe validarse con PoC, 
 
 ## Test Audits — Solguard Labs
 
+**Documentación:** ![docs](../docs/labs.md)
+
 Solguard Labs son laboratorios controlados con vulnerabilidades introducidas manualmente para medir el comportamiento de la herramienta.
 
 La tabla muestra el resultado de Solguard frente a cada laboratorio y versión.

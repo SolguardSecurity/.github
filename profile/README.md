@@ -9,9 +9,13 @@ No confirma vulnerabilidades por si sola. Cada finding debe validarse con PoC, i
 
 ![banner](../assets/banner.png)
 
+## Releases
+
+v0.5.0: [release](https://github.com/SolguardSecurity/solguard-docs/blob/main/releases/v0.5.0.md)
+**v0.6.0:** [new](https://github.com/SolguardSecurity/solguard-docs/blob/main/releases/v0.6.0.md)
+
 ## Test Audits - Solguard Labs
 
-**v0.5.0:** [release](https://github.com/SolguardSecurity/solguard-docs/blob/main/releases/v0.5.0.md)
 **Documentacion:** [labs](https://github.com/SolguardSecurity/solguard-docs/blob/main/docs/solguard-labs/README.md)
 
 Solguard Labs son laboratorios controlados con vulnerabilidades introducidas manualmente para medir el comportamiento de la herramienta.

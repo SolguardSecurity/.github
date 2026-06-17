@@ -14,6 +14,7 @@ No confirma vulnerabilidades por si sola. Cada finding debe validarse con PoC, i
 v0.5.0: [release](https://github.com/SolguardSecurity/solguard-docs/blob/main/releases/v0.5.0.md)
 **v0.6.0:** [new](https://github.com/SolguardSecurity/solguard-docs/blob/main/releases/v0.6.0.md)
 
+
 ## Test Audits - Solguard Labs
 
 **Documentacion:** [labs](https://github.com/SolguardSecurity/solguard-docs/blob/main/docs/solguard-labs/README.md)
